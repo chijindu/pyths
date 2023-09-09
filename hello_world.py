@@ -1,4 +1,4 @@
-requested_toppings = ['mushrooms', 'green-peppers', 'extra-cheese', 'Beef']
+requested_toppings = ['mushrooms', 'green-peppers', 'extra-cheese', 'Beef', 'Carrot']
 
 for requested_topping in requested_toppings:
     print(f'Adding {requested_topping}.')
