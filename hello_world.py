@@ -11,7 +11,7 @@ users = []
 if users:
     for user in users:
         if user == 'admin':
-            print('Hello Admin would you like to see a status report?')
+            print('Hello Chidy would you like to see a status report?')
         else:
             print(f'Hello {user} thank you for logging again')
 else:
